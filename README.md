@@ -18,7 +18,6 @@ A big advantage to this project is that it allowed me to explore and practice wi
 
 ### Pen
 
-
 | Property | Type     | Description                                  |
 | :--:     | :--:     | :--                                          |
 | x        | variable | x-coordinate of pen cursor                   |
@@ -30,3 +29,10 @@ A big advantage to this project is that it allowed me to explore and practice wi
 ### Wiper
 
 ### Circle
+
+| Property | Type     | Description
+| :--:     | :--:     | :--
+| x        | variable | x-coordinate of circle center
+| y        | variable | y-coordinate of circle center
+| r        | variable | radius of the circle
+| color    | variable | color of circle, for printing
